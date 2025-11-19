@@ -5,7 +5,7 @@
  * This program calculates if contestant is eligible for pie contest
  */
 
- package main
+package main
 
 import (
 	"fmt"
